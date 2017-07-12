@@ -1,0 +1,26 @@
+* Weekly Task                                                        :WEEKLY:
+** TODO watch documentary 
+   SCHEDULED: <2017-07-17 Mon ++1w>
+   :PROPERTIES:
+   :STYLE:    habit
+   :LAST_REPEAT: [2017-07-12 Wed 22:28]
+   :END:
+** watch TED
+SCHEDULED: <2017-07-12 Wed ++1w>
+:PROPERTIES:
+:STYLE:    habit
+:END:
+
+
+
+* Daily Task                                                          :DAILY:
+** TODO [0/3] Vocabulary Test 
+   SCHEDULED: <2017-07-13 Thu ++1d>
+   :PROPERTIES:
+   :LAST_REPEAT: [2017-07-12 Wed 22:32]
+   :STYLE:    habit
+   :END:
+   - State "DONE"       from "TODO"       [2017-07-12 Wed 22:32]
++ [ ] Vocabulary Test 1
++ [ ] Vocabulary Test 2
++ [ ] Vocabulary Test 3
