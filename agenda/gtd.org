@@ -1,4 +1,12 @@
 * Workspace
 
-** TODO [#B] need 
+
+* In box
+
+
+** TODO [#B] 整理流式计算
+https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101
+
+** TODO [#B]http://breezedeus.github.io/ 机器学习博客 
+
 
