@@ -9,7 +9,14 @@
 ** Deep Learning
 *** [[http://course.fast.ai/index.html][Fast AI]]
 深度学习课程
-* Bog
+* Blog
 ** linux 
 *** [[http://www.brendangregg.com/][Brendan Gregg]]
 系统性能大牛
+* Linux
+** [[https://github.com/draios/sysdig][sysdig]]
+性能监控工具
+* Github
+** Security 
+*** [[https://github.com/Hack-with-Github/Awesome-Hacking][Awesome-Hacking]] 
+黑客工具
